@@ -2,8 +2,11 @@
 
 ### Setup & Installation
 **Preface:**
+
 *You will need to have node.js version 10 or higher for this to work*
+
 *You should have pm2 installed so the app does not need command prompt/powershell/a terminal window open*
+
 *You will need to have a Discord App created for this, read below for how to do this*
 
 **Discord App Creation:**
