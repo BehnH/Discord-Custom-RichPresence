@@ -1,0 +1,23 @@
+{
+  "name": "discord-custom-presence",
+  "version": "1.0.0",
+  "description": "Create a custom Discord RichPresence for your user",
+  "main": "main.js",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaitroseDev/Discord-Custom-RichPresence.git"
+  },
+  "author": "waitrose#0001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaitroseDev/Discord-Custom-RichPresence/issues"
+  },
+  "homepage": "https://github.com/WaitroseDev/Discord-Custom-RichPresence#readme"
+}
